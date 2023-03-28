@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\flutter_projects\\Flutter-Covid-19-Tracker-App-Tutorials\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "F:\\flutter_projects\\Covid-19-Tracker-App\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "F:\\flutter_projects\\Flutter-Covid-19-Tracker-App-Tutorials\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "F:\\flutter_projects\\Covid-19-Tracker-App\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

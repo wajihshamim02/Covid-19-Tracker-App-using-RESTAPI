@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\flutter_projects\\Flutter-Covid-19-Tracker-App-Tutorials\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "F:\\flutter_projects\\Covid-19-Tracker-App\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\wajih\\.gradle\\caches\\transforms-3\\4cb1b5a1b05b853580fb9baf5881fb52\\transformed\\core-1.6.0\\res\\values\\values.xml",
@@ -23,25 +23,6 @@
                     }
                 },
                 {
-                    "source": "F:\\flutter_projects\\Flutter-Covid-19-Tracker-App-Tutorials\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,830",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "472,996"
-                    },
-                    "to": {
-                        "startLines": "93,98",
-                        "startColumns": "4,4",
-                        "startOffsets": "5462,5759",
-                        "endLines": "97,100",
-                        "endColumns": "12,12",
-                        "endOffsets": "5754,5923"
-                    }
-                },
-                {
                     "source": "C:\\Users\\wajih\\.gradle\\caches\\transforms-3\\f5212a0d5a31f16256cd04cdcd865737\\transformed\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
@@ -58,6 +39,25 @@
                         "endLines": "7,8,9,10,72,121,125,274,291,299",
                         "endColumns": "11,59,51,44,59,24,24,24,24,24",
                         "endOffsets": "289,349,401,446,4387,7238,7435,16396,17510,17903"
+                    }
+                },
+                {
+                    "source": "F:\\flutter_projects\\Covid-19-Tracker-App\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,830",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,996"
+                    },
+                    "to": {
+                        "startLines": "93,98",
+                        "startColumns": "4,4",
+                        "startOffsets": "5462,5759",
+                        "endLines": "97,100",
+                        "endColumns": "12,12",
+                        "endOffsets": "5754,5923"
                     }
                 }
             ]
